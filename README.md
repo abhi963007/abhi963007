@@ -7,8 +7,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" /> </p>
 
-<p align="left"> <a href="https://twitter.com/yourtwitterhandle" target="blank"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FAbhiramAK8
-/></a> </p>
+<p align="left"> <a href="https://twitter.com/AbhiramAK8" target="blank"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FAbhiramAK8"
+" alt="yourtwitterhandle" /></a> </p>
 
 - 🔭 I’m currently working on **a Web Project**
 
