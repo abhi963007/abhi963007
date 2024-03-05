@@ -1,14 +1,14 @@
 name: generate animation
 
 on:
-  # run automatically every 12 hours
+  # Run automatically every 12 hours
   schedule:
     - cron: "0 */12 * * *" 
   
-  # allows to manually run the job at any time
+  # Allows to manually run the job at any time
   workflow_dispatch:
   
-  # run on every push on the main branch
+  # Run on every push on the main branch
   push:
     branches:
       - main
@@ -19,13 +19,13 @@ jobs:
     timeout-minutes: 10
     
     steps:
-      # Use Platane/snk/svg-only@v2 with Node.js 20
+      # Set up Node.js 20.x
       - name: Set up Node.js 20.x
         uses: actions/setup-node@v4
         with:
           node-version: '20.x'
 
-      # Generates a snake game from a GitHub user's contributions graph, output a SVG animation
+      # Generate a snake game from a GitHub user's contributions graph and output an SVG animation
       - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v2
         with:
