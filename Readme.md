@@ -20,16 +20,3 @@
   
   <img width="50%" src="https://skillicons.dev/icons?i=rust,ts,tailwind,nextjs,mongodb,bun,prisma,express,graphql,androidstudio" />
 </div>
-<br>
-<h2 align="center">My Contributions 🐉</h2>
-
-<!-- <div align="center">
-  <img width="75%" alt="Snake Animation" src="https://raw.githubusercontent.com/ImSreyas/ImSreyas/output/github-contribution-grid-snake.gif" />
-</div>
- -->
-<div align="center">
-  
-![Image](https://raw.githubusercontent.com/ImSreyas/ImSreyas/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![Image](https://raw.githubusercontent.com/ImSreyas/ImSreyas/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
-</div>
