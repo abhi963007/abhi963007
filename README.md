@@ -1,3 +1,10 @@
+<div align="center">
+  <img src="https://profile-counter.glitch.me/abhi963007/count.svg?"  />
+</div>
+
+###
+
+
 # 💫 About Me:
 🔭 I’m currently working on expanding my programming skills through various projects and internships.<br>👯 I’m looking to collaborate on building innovative software solutions or contributing to open-source projects.<br>🤝 I’m looking for help with mastering advanced algorithms and data structures.<br>🌱 I’m currently learning about cloud computing and machine learning to broaden my skill set.<br>💬 Ask me about my latest coding challenges or my favorite programming languages.<br>⚡ Fun fact: I once pulled an all-nighter debugging a program, only to realize the bug was just a missing semicolon.
 
