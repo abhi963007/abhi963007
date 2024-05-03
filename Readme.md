@@ -29,4 +29,10 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhi963007&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
   </div>
 <br><br>
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=carolbvandyke)
+<div align="center">
+  <a href="https://open.spotify.com/user/carolbvandyke">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=carolbvandyke&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
