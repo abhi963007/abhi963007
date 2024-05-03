@@ -6,7 +6,7 @@
   </div>
   
   ###
-  <img src="https://raw.githubusercontent.com/abhi963007/abhi963007/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/abhi963007/abhi963007/output/snake.svg" alt="Snake animation" class="center"/>
 
   ###
   <h2 align="center">Languages, Frameworks, Tools</h2>
