@@ -34,7 +34,8 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhi963007&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="Most used languages" />
   <img src="https://streak-stats.demolab.com?user=abhi963007&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="GitHub streak" />
-  <img src="https://github-profile-trophy.vercel.app/?username=abhi963007&theme=dracula&column=3&margin-w=15&margin-h=15" height="150" alt="GitHub trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abhi963007&theme=dracula&column=3&margin-w=15&margin-h=15&no-bg=false&no-frame=false" height="150" alt="GitHub trophies" />
+  <img src="https://via.placeholder.com/150?text=Contributor+Badge" height="150" alt="Placeholder trophy to complete the grid" />
 </div>
 
 ---
