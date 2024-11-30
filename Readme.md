@@ -1,4 +1,3 @@
-# Abhiram K | Software Developer
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/abhi963007/abhi963007/output/snake.svg" alt="Snake animation" width="100%" />
