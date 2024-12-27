@@ -1,136 +1,101 @@
 <div align="center">
- <img src="https://raw.githubusercontent.com/abhi963007/abhi963007/output/snake.svg" alt="Snake animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C33764,100:1D2671&height=200&section=header&text=Hi%20there,%20I'm%20Abhiram&fontSize=40&fontAlignY=35&fontColor=ffffff&animation=fadeIn" width="100%" />
 </div>
 
-<h2 align="center">🌟 Professional Profile</h2>
-
 <p align="center">
- <a href="https://github.com/abhi963007">
-   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
- </a>
- <a href="https://www.linkedin.com">
-   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
- </a>
- <a href="mailto:abhiramak963@gmail.com">
-   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
- </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=25&duration=4000&pause=1000&color=C33764&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Software+Engineering+Enthusiast;Always+Learning+New+Technologies;Building+Innovative+Solutions" alt="Typing SVG" />
 </p>
-
-<p align="center">
- <b>Turning ideas into robust software solutions, one commit at a time.</b>
-</p>
-
-<h2 align="center">💻 Tech Stack</h2>
-
-<table align="center">
- <tr>
-   <td align="center" width="96">
-     <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="65" height="65" />
-     <br>Python
-   </td>
-   <td align="center" width="96">
-     <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="javascript" width="65" height="65" />
-     <br>JavaScript
-   </td>
-   <td align="center" width="96">
-     <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="java" width="65" height="65" />
-     <br>Java
-   </td>
-   <td align="center" width="96">
-     <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="cpp" width="65" height="65" />
-     <br>C++
-   </td>
-   <td align="center" width="96">
-     <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="typescript" width="65" height="65" />
-     <br>TypeScript
-   </td>
-   <td align="center" width="96">
-     <img src="https://techstack-generator.vercel.app/rust-icon.svg" alt="rust" width="65" height="65" />
-     <br>Rust
-   </td>
- </tr>
- <tr>
-   <td align="center" width="96">
-     <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="react" width="65" height="65" />
-     <br>React
-   </td>
-   <td align="center" width="96">
-     <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="nodejs" width="65" height="65" />
-     <br>NodeJS
-   </td>
-   <td align="center" width="96">
-     <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="tailwind" />
-     <br>Tailwind
-   </td>
-   <td align="center" width="96">
-     <img src="https://skillicons.dev/icons?i=redux" width="65" height="65" alt="redux" />
-     <br>Redux
-   </td>
-   <td align="center" width="96">
-     <img src="https://skillicons.dev/icons?i=nextjs" width="65" height="65" alt="nextjs" />
-     <br>NextJS
-   </td>
-   <td align="center" width="96">
-     <img src="https://skillicons.dev/icons?i=express" width="65" height="65" alt="express" />
-     <br>Express
-   </td>
- </tr>
- <tr>
-   <td align="center" width="96">
-     <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="github" width="65" height="65" />
-     <br>GitHub
-   </td>
-   <td align="center" width="96">
-     <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="docker" width="65" height="65" />
-     <br>Docker
-   </td>
-   <td align="center" width="96">
-     <img src="https://skillicons.dev/icons?i=linux" width="65" height="65" alt="linux" />
-     <br>Linux
-   </td>
-   <td align="center" width="96">
-     <img src="https://skillicons.dev/icons?i=firebase" width="65" height="65" alt="firebase" />
-     <br>Firebase
-   </td>
-   <td align="center" width="96">
-     <img src="https://skillicons.dev/icons?i=mysql" width="65" height="65" alt="mysql" />
-     <br>MySQL
-   </td>
-   <td align="center" width="96">
-     <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="mongodb" />
-     <br>MongoDB
-   </td>
- </tr>
-</table>
-
-## 🚀 Current Focus
-- Advanced web application development
-- Exploring systems programming with Rust
-- Full-stack development techniques
-
-## 📊 GitHub Stats
 
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhi963007&layout=compact&theme=nord&hide_border=true&bg_color=1a1b27&title_color=58a6ff&text_color=ffffff" width="355px" />
- <img src="https://streak-stats.demolab.com?user=abhi963007&theme=tokyonight&hide_border=true&background=1A1B27&stroke=58A6FF&ring=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" width="420px" />
+  <a href="https://github.com/abhi963007" target="_blank">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/abhi963007?label=Follow&style=social">
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
+  </a>&nbsp;&nbsp;
+  <a href="mailto:abhiramak963@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white" alt="Email">
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/abhi963007/abhi963007/output/snake.svg" alt="Snake animation" />
+</div>
+
+## 🎯 What I Do
+
+```typescript
+const abhiram = {
+    code: ["JavaScript", "TypeScript", "Python", "Java", "C++", "Rust"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Next.js", "Redux"],
+            css: ["Tailwind", "Material-UI", "Styled Components"]
+        },
+        backEnd: {
+            js: ["Node.js", "Express"],
+            python: ["Django", "FastAPI"],
+            databases: ["MongoDB", "MySQL", "PostgreSQL"]
+        },
+        devOps: ["Docker", "GitHub Actions", "AWS"],
+        tools: ["Git", "Postman", "Docker", "VSCode"]
+    },
+    currentFocus: "Building scalable applications and exploring new technologies"
+};
+```
+
+## 💻 Tech Stack
+
+<div align="center">
+  <h3>Languages</h3>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,rust" />
+  
+  <h3>Frontend</h3>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind" />
+  
+  <h3>Backend & Database</h3>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+  
+  <h3>Tools & Technologies</h3>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,firebase" />
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhi963007&theme=radical&hide_border=true&background=0D1117&stroke=C33764&ring=1D2671&fire=C33764&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=C33764&sideLabels=1D2671&dates=8B8B8B" />
+</div>
+
+<br>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhi963007&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=C33764&icon_color=1D2671" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi963007&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=C33764" />
 </div>
 
 ## 🏆 GitHub Trophies
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=abhi963007&theme=radical&no-frame=true&no-bg=true&row=2&column=3&margin-w=15&margin-h=15" />
-</p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=abhi963007&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abhi963007&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" />
+</div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhi963007&theme=react-dark&hide_border=true&area=true" width="100%">
+## 📈 Contribution Graph
 
-<img src="https://github.com/abhi963007/abhi963007/blob/output/github-contribution-grid-snake.svg" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhi963007&custom_title=Contribution%20Graph&bg_color=0D1117&color=C33764&line=1D2671&point=C33764&area_color=1D2671&area=true&hide_border=true" />
 
-<details>
-<summary>📈 Detailed Metrics</summary>
-<img src="https://metrics.lecoq.io/abhi963007?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&notable=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable=false&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&notable.self=false&config.timezone=Asia%2FKolkata" />
+<details align="center">
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <img alt="Abhiram's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=abhi963007&custom_title=Abhiram%27s%20Contribution%20Graph&bg_color=0D1117&color=C33764&line=1D2671&point=C33764&area_color=1D2671&area=true&hide_border=true" />
+  <br/>
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=abhi963007&style=for-the-badge&color=1D2671" alt="Profile Views" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C33764,100:1D2671&height=100&section=footer" width="100%" />
+</div>
