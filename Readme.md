@@ -18,16 +18,15 @@
   </a>
 </div>
 
-<br>
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/abhi963007/abhi963007/output/snake.svg" alt="Snake animation" />
 </div>
 
-## 🎯 What I Do
+## 🚀 About Me
 
 ```typescript
 const abhiram = {
+    pronouns: "He/Him",
     code: ["JavaScript", "TypeScript", "Python", "Java", "C++", "Rust"],
     technologies: {
         frontEnd: {
@@ -42,11 +41,12 @@ const abhiram = {
         devOps: ["Docker", "GitHub Actions", "AWS"],
         tools: ["Git", "Postman", "Docker", "VSCode"]
     },
-    currentFocus: "Building scalable applications and exploring new technologies"
+    currentFocus: "Building scalable applications and exploring new technologies",
+    hobbies: ["Coding", "Reading Tech Blogs", "Playing Chess", "Exploring New Music"]
 };
 ```
 
-## 💻 Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
   <h3>Languages</h3>
@@ -68,8 +68,6 @@ const abhiram = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhi963007&theme=radical&hide_border=true&background=0D1117&stroke=C33764&ring=1D2671&fire=C33764&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=C33764&sideLabels=1D2671&dates=8B8B8B" />
 </div>
 
-<br>
-
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhi963007&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=C33764&icon_color=1D2671" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi963007&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=C33764" />
@@ -88,7 +86,7 @@ const abhiram = {
 <details align="center">
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <img alt="Abhiram's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=abhi963007&custom_title=Abhiram%27s%20Contribution%20Graph&bg_color=0D1117&color=C33764&line=1D2671&point=C33764&area_color=1D2671&area=true&hide_border=true" />
+  <img alt="Abhiram's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=abhi963007&custom_title=Abhiram%27s%20Contribution%20Graph&bg_color=0D1117&color=C33764&line=1D2671&point=C33764&area_color=1D2671&area=true&hide_border=true" />
   <br/>
 </details>
 
