@@ -126,8 +126,8 @@ class SoftwareEngineer {
 <br>
 
 <div align="center">
-  <h2>💡 Random Dev Quote</h2>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <h2>🐍 My Contributions Snake</h2>
+  <img src="https://raw.githubusercontent.com/abhi963007/abhi963007/output/github-contribution-grid-snake.svg" alt="snake"/>
 </div>
 
 <div align="center">
