@@ -1,99 +1,139 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C33764,100:1D2671&height=200&section=header&text=Hi%20there,%20I'm%20Abhiram&fontSize=40&fontAlignY=35&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=12&text=Welcome%20to%20Abhiram's%20Digital%20Universe&fontSize=40&fontAlignY=45&desc=Where%20Code%20Meets%20Creativity&descSize=20&descAlignY=60&animation=fadeIn" width="100%" />
 </div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=25&duration=4000&pause=1000&color=C33764&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Software+Engineering+Enthusiast;Always+Learning+New+Technologies;Building+Innovative+Solutions" alt="Typing SVG" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer+by+Day;Code+Adventurer+by+Night;Crafting+Digital+Experiences+24/7" />
+</div>
+
+```ascii
+                     ╔══════════════════════════════════════╗
+                     ║        System.out.println(           ║
+                     ║    "Hello World, I'm Abhiram! 👋"    ║
+                     ╚══════════════════════════════════════╝
+```
 
 <div align="center">
-  <a href="https://github.com/abhi963007" target="_blank">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/abhi963007?label=Follow&style=social">
-  </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
-  </a>&nbsp;&nbsp;
+  <a href="https://github.com/abhi963007">
+    <img src="https://img.shields.io/badge/Follow_My_Journey-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com">
+    <img src="https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <a href="mailto:abhiramak963@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
+<br>
+
+<details>
+<summary><h2>🎯 My Development Arsenal</h2></summary>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/abhi963007/abhi963007/output/snake.svg" alt="Snake animation" />
-</div>
 
-## 🚀 About Me
-
-```typescript
-const abhiram = {
-    pronouns: "He/Him",
-    code: ["JavaScript", "TypeScript", "Python", "Java", "C++", "Rust"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Next.js", "Redux"],
-            css: ["Tailwind", "Material-UI", "Styled Components"]
-        },
-        backEnd: {
-            js: ["Node.js", "Express"],
-            python: ["Django", "FastAPI"],
-            databases: ["MongoDB", "MySQL", "PostgreSQL"]
-        },
-        devOps: ["Docker", "GitHub Actions", "AWS"],
-        tools: ["Git", "Postman", "Docker", "VSCode"]
-    },
-    currentFocus: "Building scalable applications and exploring new technologies",
-    hobbies: ["Coding", "Reading Tech Blogs", "Playing Chess", "Exploring New Music"]
-};
+```mermaid
+mindmap
+  root((Tech Stack))
+    Languages
+      JavaScript
+      TypeScript
+      Python
+      Java
+      C++
+      Rust
+    Frontend Magic
+      React
+      Next.js
+      Redux
+      Tailwind CSS
+    Backend Powers
+      Node.js
+      Express
+      Django
+      FastAPI
+    Database Mastery
+      MongoDB
+      MySQL
+      PostgreSQL
+    DevOps Tools
+      Docker
+      GitHub Actions
+      AWS
 ```
 
-## 🛠️ Tech Stack
-
-<div align="center">
-  <h3>Languages</h3>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,rust" />
-  
-  <h3>Frontend</h3>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind" />
-  
-  <h3>Backend & Database</h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
-  
-  <h3>Tools & Technologies</h3>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,firebase" />
 </div>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhi963007&theme=radical&hide_border=true&background=0D1117&stroke=C33764&ring=1D2671&fire=C33764&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=C33764&sideLabels=1D2671&dates=8B8B8B" />
-</div>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhi963007&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=C33764&icon_color=1D2671" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi963007&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=C33764" />
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhi963007&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" />
-</div>
-
-## 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhi963007&custom_title=Contribution%20Graph&bg_color=0D1117&color=C33764&line=1D2671&point=C33764&area_color=1D2671&area=true&hide_border=true" />
-
-<details align="center">
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-  <img alt="Abhiram's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=abhi963007&custom_title=Abhiram%27s%20Contribution%20Graph&bg_color=0D1117&color=C33764&line=1D2671&point=C33764&area_color=1D2671&area=true&hide_border=true" />
-  <br/>
 </details>
 
+<details>
+<summary><h2>🚀 What Drives Me</h2></summary>
+
+```javascript
+class SoftwareEngineer {
+    constructor() {
+        this.name = "Abhiram";
+        this.role = "Full Stack Developer";
+        this.languageSpoken = ["English", "Code"];
+        this.challenges = "Accepted";
+    }
+
+    sayHi() {
+        console.log("Thanks for dropping by! Let's build something amazing together!");
+    }
+
+    getCurrentState() {
+        return {
+            learning: ["System Design", "Cloud Architecture", "Web3"],
+            reading: "Clean Code by Robert C. Martin",
+            building: "Scalable Applications",
+            exploring: "New Technologies Daily"
+        };
+    }
+
+    getLifeGoals() {
+        return [
+            "Contribute to Open Source",
+            "Build Impactful Projects",
+            "Share Knowledge",
+            "Never Stop Learning"
+        ];
+    }
+}
+```
+
+</details>
+
+<h2>📊 Development Metrics</h2>
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhi963007&style=for-the-badge&color=1D2671" alt="Profile Views" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhi963007&theme=tokyonight&hide_border=true&background=0D1117&stroke=00C2FF&ring=00C2FF&fire=FF0000&currStreakNum=FFFFFF&sideNums=00C2FF&currStreakLabel=00C2FF&sideLabels=00C2FF&dates=FFFFFF" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C33764,100:1D2671&height=100&section=footer" width="100%" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abhi963007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&icon_color=00C2FF" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi963007&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&layout=compact" />
+</div>
+
+<h2>🏆 Achievement Showcase</h2>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abhi963007&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhi963007&theme=react-dark&hide_border=true&bg_color=0D1117&color=00C2FF&line=00C2FF&point=FF0000&area=true" />
+</div>
+
+<br>
+
+<div align="center">
+  <h2>💡 Random Dev Quote</h2>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=abhi963007&style=for-the-badge&color=00C2FF" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=12&section=footer" width="100%" />
 </div>
