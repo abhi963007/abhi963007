@@ -21,7 +21,7 @@
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/abhi963007/abhi963007/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/abhi963007/abhi963007/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ## 🎯 What I Do
