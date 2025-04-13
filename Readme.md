@@ -1,142 +1,167 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hello World, I'm Abhiram
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=33&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=940&lines=Welcome+to+Abhiram's+Digital+Universe...;Full+Stack+Developer+%7C+Software+Engineer;Building+the+Future+Through+Code">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=33&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=940&lines=Welcome+to+Abhiram's+Digital+Universe...;Full+Stack+Developer+%7C+Software+Engineer;Building+the+Future+Through+Code">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=33&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=940&lines=Welcome+to+Abhiram's+Digital+Universe...;Full+Stack+Developer+%7C+Software+Engineer;Building+the+Future+Through+Code" alt="Typing SVG" />
+  </picture>
+</div>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
 
-I'm a passionate Full Stack Developer & Software Engineer from India. Welcome to my digital garden of code! 🚀
+<p align="center">
+  <a href="https://www.linkedin.com">
+    <img src="https://img.shields.io/badge/-LinkedIn-231f20?style=for-the-badge&labelColor=231f20&logo=linkedin&logoColor=00FFFF" alt="LinkedIn" />
+  </a>
+  <a href="mailto:abhiramak963@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-231f20?style=for-the-badge&labelColor=231f20&logo=gmail&logoColor=00FFFF" alt="Email" />
+  </a>  
+  <a href="https://github.com/abhi963007">
+    <img src="https://img.shields.io/badge/-Github-231f20?style=for-the-badge&labelColor=231f20&logo=github&logoColor=00FFFF" alt="Github" />
+  </a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhiramak963@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhi963007)
-![Followers](https://img.shields.io/github/followers/abhi963007?label=Followers&style=for-the-badge)
-![Profile Views](https://komarev.com/ghpvc/?username=abhi963007&style=for-the-badge&color=blueviolet)
+```bash
+~/abhi963007 > ./about.sh
 
-## 🧰 My Toolbox
+█████╗ ██████╗ ██╗  ██╗██╗██████╗  █████╗ ███╗   ███╗
+██╔══██╗██╔══██╗██║  ██║██║██╔══██╗██╔══██╗████╗ ████║
+███████║██████╔╝███████║██║██████╔╝███████║██╔████╔██║
+██╔══██║██╔══██╗██╔══██║██║██╔══██╗██╔══██║██║╚██╔╝██║
+██║  ██║██████╔╝██║  ██║██║██║  ██║██║  ██║██║ ╚═╝ ██║
+╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝
+                                                       
+> Full Stack Developer & Software Engineer
+> Crafting digital experiences & solving complex problems
+> Always exploring new technologies
+```
 
-<table>
+<img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" />
+
+<h2><img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" height="35"> Developer Profile</h2>
+
+- 🔭 Currently focusing on scalable application architecture
+- 🌱 Exploring edge computing & AI/ML integration
+- 💬 Ask me about full-stack development, system design
+- ⚡ Fun fact: I debug with console.logs and refuse to believe anyone does it differently
+
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
+<h2><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" height="35"> Tech Arsenal</h2>
+
+<div align="center">
+<div style="display: flex; align-items: flex-start; justify-content: center;">
+<table align="center">
   <tr>
-    <td align="center" width="96">
-      <a href="#javascript">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="#typescript">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <a href="#python">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="#react">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React" />
-      </a>
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <a href="#nodejs">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
-      </a>
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-      <a href="#mongodb">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
-      </a>
-      <br>MongoDB
+    <th>Category</th>
+    <th>Technologies</th>
+  </tr>
+  <tr>
+    <td>Languages</td>
+    <td>
+      <img src="https://img.shields.io/badge/-JavaScript-231f20?style=flat-square&labelColor=231f20&logo=javascript&logoColor=00FFFF" />
+      <img src="https://img.shields.io/badge/-TypeScript-231f20?style=flat-square&labelColor=231f20&logo=typescript&logoColor=00FFFF" />
+      <img src="https://img.shields.io/badge/-Python-231f20?style=flat-square&labelColor=231f20&logo=python&logoColor=00FFFF" />
+      <img src="https://img.shields.io/badge/-Java-231f20?style=flat-square&labelColor=231f20&logo=java&logoColor=00FFFF" />
+      <img src="https://img.shields.io/badge/-C++-231f20?style=flat-square&labelColor=231f20&logo=cplusplus&logoColor=00FFFF" />
+      <img src="https://img.shields.io/badge/-Rust-231f20?style=flat-square&labelColor=231f20&logo=rust&logoColor=00FFFF" />
     </td>
   </tr>
   <tr>
-    <td align="center" width="96">
-      <a href="#nextjs">
-        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="48" height="48" alt="Next.js" />
-      </a>
-      <br>Next.js
+    <td>Frontend</td>
+    <td>
+      <img src="https://img.shields.io/badge/-React-231f20?style=flat-square&labelColor=231f20&logo=react&logoColor=00FFFF" />
+      <img src="https://img.shields.io/badge/-Next.js-231f20?style=flat-square&labelColor=231f20&logo=next.js&logoColor=00FFFF" />
+      <img src="https://img.shields.io/badge/-Redux-231f20?style=flat-square&labelColor=231f20&logo=redux&logoColor=00FFFF" />
+      <img src="https://img.shields.io/badge/-Tailwind-231f20?style=flat-square&labelColor=231f20&logo=tailwindcss&logoColor=00FFFF" />
     </td>
-    <td align="center" width="96">
-      <a href="#tailwind">
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="48" height="48" alt="Tailwind" />
-      </a>
-      <br>Tailwind
+  </tr>
+  <tr>
+    <td>Backend</td>
+    <td>
+      <img src="https://img.shields.io/badge/-Node.js-231f20?style=flat-square&labelColor=231f20&logo=node.js&logoColor=00FFFF" />
+      <img src="https://img.shields.io/badge/-Express-231f20?style=flat-square&labelColor=231f20&logo=express&logoColor=00FFFF" />
+      <img src="https://img.shields.io/badge/-Django-231f20?style=flat-square&labelColor=231f20&logo=django&logoColor=00FFFF" />
+      <img src="https://img.shields.io/badge/-MongoDB-231f20?style=flat-square&labelColor=231f20&logo=mongodb&logoColor=00FFFF" />
+      <img src="https://img.shields.io/badge/-PostgreSQL-231f20?style=flat-square&labelColor=231f20&logo=postgresql&logoColor=00FFFF" />
     </td>
-    <td align="center" width="96">
-      <a href="#docker">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <a href="#java">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
-      </a>
-      <br>Java
-    </td>
-    <td align="center" width="96">
-      <a href="#cpp">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
-      </a>
-      <br>C++
-    </td>
-    <td align="center" width="96">
-      <a href="#rust">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" width="48" height="48" alt="Rust" />
-      </a>
-      <br>Rust
+  </tr>
+  <tr>
+    <td>DevOps & Tools</td>
+    <td>
+      <img src="https://img.shields.io/badge/-Docker-231f20?style=flat-square&labelColor=231f20&logo=docker&logoColor=00FFFF" />
+      <img src="https://img.shields.io/badge/-Git-231f20?style=flat-square&labelColor=231f20&logo=git&logoColor=00FFFF" />
+      <img src="https://img.shields.io/badge/-AWS-231f20?style=flat-square&labelColor=231f20&logo=amazon-aws&logoColor=00FFFF" />
+      <img src="https://img.shields.io/badge/-VSCode-231f20?style=flat-square&labelColor=231f20&logo=visual-studio-code&logoColor=00FFFF" />
     </td>
   </tr>
 </table>
+</div>
+</div>
 
-## 🚀 Current Focus
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
 
-```javascript
-const lifeGoals = {
-  code: () => "Building scalable applications",
-  learn: () => "Exploring new technologies daily",
-  grow: () => "Contributing to open source",
-  share: () => "Writing technical articles",
-  build: () => "Creating value through technology"
-};
+<h2><img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" height="35"> GitHub Analytics</h2>
 
-// Life in execution
-while (true) {
-  Object.values(lifeGoals).forEach(goal => console.log(goal()));
-  sleep(24 * 60 * 60 * 1000); // Tomorrow is another day
-}
-```
+<div align="center">
+  <a href="https://github.com/abhi963007">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=abhi963007&theme=midnight-purple&show_icons=true&border_color=00FFFF&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&bg_color=000000&hide_border=true" />
+  </a>
+  <a href="https://github.com/abhi963007">
+    <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi963007&theme=midnight-purple&border=00FFFF&background=000000&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF&hide_border=true" />
+  </a>
+</div>
 
-## 📊 GitHub Stats
+<div align="center">
+  <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi963007&layout=donut-vertical&theme=midnight-purple&title_color=00FFFF&text_color=FFFFFF&bg_color=000000&hide_border=true" />
+  <img height="300em" width="700em" src="https://github-profile-trophy.vercel.app/?username=abhi963007&theme=matrix&row=2&column=4&margin-w=15&margin-h=15&no-frame=true" />
+</div>
 
-<p align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi963007&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abhi963007&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
 
-<p align="center">
-  <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi963007&layout=compact&theme=tokyonight&hide_border=true" />
-  <img width="55%" src="https://github-profile-trophy.vercel.app/?username=abhi963007&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
-## 🏆 My Contributions
+<h2><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" height="30px"> Contribution Galaxy</h2>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/abhi963007/abhi963007/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
-## 🧠 My Favorite Quote
+```javascript
+// Life.js
+class Developer {
+  constructor() {
+    this.name = "Abhiram";
+    this.role = "Full Stack Developer";
+    this.languageSpoken = ["en_US", "code"];
+    this.dailyMotto = "function coffeeThenCode() { return 'I ♥ building stuff!'; }";
+  }
+
+  sayHi() {
+    console.log("Thanks for visiting my GitHub profile!");
+  }
+}
+
+const me = new Developer();
+me.sayHi();
+```
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote" />
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
----
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=abhi963007&style=for-the-badge&color=00FFFF&label=PROFILE+VIEWS" alt="Profile Views" />
+  <a href="https://github.com/abhi963007?tab=followers">
+    <img src="https://img.shields.io/github/followers/abhi963007?label=Followers&style=for-the-badge&color=00FFFF" alt="Followers" />
+  </a>
+</div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Thanks%20for%20visiting!-0078D7?style=for-the-badge" alt="Thanks for visiting!" />
-  <p>Made with ❤️ in India</p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=80&section=footer" width="100%" />
 </div>
