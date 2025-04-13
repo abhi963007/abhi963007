@@ -1,101 +1,142 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C33764,100:1D2671&height=200&section=header&text=Hi%20there,%20I'm%20Abhiram&fontSize=40&fontAlignY=35&fontColor=ffffff&animation=fadeIn" width="100%" />
-</div>
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hello World, I'm Abhiram
+
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
+
+I'm a passionate Full Stack Developer & Software Engineer from India. Welcome to my digital garden of code! 🚀
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhiramak963@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhi963007)
+![Followers](https://img.shields.io/github/followers/abhi963007?label=Followers&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=abhi963007&style=for-the-badge&color=blueviolet)
+
+## 🧰 My Toolbox
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#javascript">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="#typescript">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <a href="#python">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="#react">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React" />
+      </a>
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <a href="#nodejs">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
+      </a>
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <a href="#mongodb">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
+      </a>
+      <br>MongoDB
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="#nextjs">
+        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="48" height="48" alt="Next.js" />
+      </a>
+      <br>Next.js
+    </td>
+    <td align="center" width="96">
+      <a href="#tailwind">
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="48" height="48" alt="Tailwind" />
+      </a>
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+      <a href="#docker">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <a href="#java">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
+      </a>
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <a href="#cpp">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
+      </a>
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <a href="#rust">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" width="48" height="48" alt="Rust" />
+      </a>
+      <br>Rust
+    </td>
+  </tr>
+</table>
+
+## 🚀 Current Focus
+
+```javascript
+const lifeGoals = {
+  code: () => "Building scalable applications",
+  learn: () => "Exploring new technologies daily",
+  grow: () => "Contributing to open source",
+  share: () => "Writing technical articles",
+  build: () => "Creating value through technology"
+};
+
+// Life in execution
+while (true) {
+  Object.values(lifeGoals).forEach(goal => console.log(goal()));
+  sleep(24 * 60 * 60 * 1000); // Tomorrow is another day
+}
+```
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=25&duration=4000&pause=1000&color=C33764&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Software+Engineering+Enthusiast;Always+Learning+New+Technologies;Building+Innovative+Solutions" alt="Typing SVG" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi963007&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abhi963007&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
-<div align="center">
-  <a href="https://github.com/abhi963007" target="_blank">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/abhi963007?label=Follow&style=social">
-  </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
-  </a>&nbsp;&nbsp;
-  <a href="mailto:abhiramak963@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white" alt="Email">
-  </a>
-</div>
+<p align="center">
+  <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi963007&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="55%" src="https://github-profile-trophy.vercel.app/?username=abhi963007&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
 
-<br>
+## 🏆 My Contributions
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/abhi963007/abhi963007/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
-## 🎯 What I Do
-
-```typescript
-const abhiram = {
-    code: ["JavaScript", "TypeScript", "Python", "Java", "C++", "Rust"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Next.js", "Redux"],
-            css: ["Tailwind", "Material-UI", "Styled Components"]
-        },
-        backEnd: {
-            js: ["Node.js", "Express"],
-            python: ["Django", "FastAPI"],
-            databases: ["MongoDB", "MySQL", "PostgreSQL"]
-        },
-        devOps: ["Docker", "GitHub Actions", "AWS"],
-        tools: ["Git", "Postman", "Docker", "VSCode"]
-    },
-    currentFocus: "Building scalable applications and exploring new technologies"
-};
-```
-
-## 💻 Tech Stack
+## 🧠 My Favorite Quote
 
 <div align="center">
-  <h3>Languages</h3>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,rust" />
-  
-  <h3>Frontend</h3>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind" />
-  
-  <h3>Backend & Database</h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
-  
-  <h3>Tools & Technologies</h3>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,firebase" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote" />
 </div>
 
-## 📊 GitHub Analytics
+---
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhi963007&theme=radical&hide_border=true&background=0D1117&stroke=C33764&ring=1D2671&fire=C33764&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=C33764&sideLabels=1D2671&dates=8B8B8B" />
-</div>
-
-<br>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhi963007&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=C33764&icon_color=1D2671" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi963007&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=C33764" />
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhi963007&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" />
-</div>
-
-## 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhi963007&custom_title=Contribution%20Graph&bg_color=0D1117&color=C33764&line=1D2671&point=C33764&area_color=1D2671&area=true&hide_border=true" />
-
-<details align="center">
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <img alt="Abhiram's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=abhi963007&custom_title=Abhiram%27s%20Contribution%20Graph&bg_color=0D1117&color=C33764&line=1D2671&point=C33764&area_color=1D2671&area=true&hide_border=true" />
-  <br/>
-</details>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhi963007&style=for-the-badge&color=1D2671" alt="Profile Views" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C33764,100:1D2671&height=100&section=footer" width="100%" />
+  <img src="https://img.shields.io/badge/Thanks%20for%20visiting!-0078D7?style=for-the-badge" alt="Thanks for visiting!" />
+  <p>Made with ❤️ in India</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn" width="100%" />
 </div>
