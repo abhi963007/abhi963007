@@ -1,167 +1,98 @@
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=33&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=940&lines=Welcome+to+Abhiram's+Digital+Universe...;Full+Stack+Developer+%7C+Software+Engineer;Building+the+Future+Through+Code">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=33&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=940&lines=Welcome+to+Abhiram's+Digital+Universe...;Full+Stack+Developer+%7C+Software+Engineer;Building+the+Future+Through+Code">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=33&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=940&lines=Welcome+to+Abhiram's+Digital+Universe...;Full+Stack+Developer+%7C+Software+Engineer;Building+the+Future+Through+Code" alt="Typing SVG" />
-  </picture>
+  <h1>Abhiram</h1>
+  <h3>Full Stack Developer | Software Engineer</h3>
 </div>
 
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
+<hr>
 
 <p align="center">
-  <a href="https://www.linkedin.com">
-    <img src="https://img.shields.io/badge/-LinkedIn-231f20?style=for-the-badge&labelColor=231f20&logo=linkedin&logoColor=00FFFF" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/abhiram-ak" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:abhiramak963@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-231f20?style=for-the-badge&labelColor=231f20&logo=gmail&logoColor=00FFFF" alt="Email" />
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>  
   <a href="https://github.com/abhi963007">
-    <img src="https://img.shields.io/badge/-Github-231f20?style=for-the-badge&labelColor=231f20&logo=github&logoColor=00FFFF" alt="Github" />
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="Github" />
   </a>
 </p>
 
-```bash
-~/abhi963007 > ./about.sh
+## About Me
 
-█████╗ ██████╗ ██╗  ██╗██╗██████╗  █████╗ ███╗   ███╗
-██╔══██╗██╔══██╗██║  ██║██║██╔══██╗██╔══██╗████╗ ████║
-███████║██████╔╝███████║██║██████╔╝███████║██╔████╔██║
-██╔══██║██╔══██╗██╔══██║██║██╔══██╗██╔══██║██║╚██╔╝██║
-██║  ██║██████╔╝██║  ██║██║██║  ██║██║  ██║██║ ╚═╝ ██║
-╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝
-                                                       
-> Full Stack Developer & Software Engineer
-> Crafting digital experiences & solving complex problems
-> Always exploring new technologies
-```
+- 🔭 Full Stack Developer & Software Engineer
+- 💻 Crafting digital experiences & solving complex problems
+- 🌱 Always exploring new technologies
 
-<img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" />
+## Focus Areas
 
-<h2><img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" height="35"> Developer Profile</h2>
-
-- 🔭 Currently focusing on scalable application architecture
-- 🌱 Exploring edge computing & AI/ML integration
-- 💬 Ask me about full-stack development, system design
+- 🔭 Scalable application architecture
+- 🌱 Edge computing & AI/ML integration
+- 💬 Full-stack development, system design
 - ⚡ Fun fact: I debug with console.logs and refuse to believe anyone does it differently
 
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
+<hr>
 
-<h2><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" height="35"> Tech Arsenal</h2>
+## Technologies
 
-<div align="center">
-<div style="display: flex; align-items: flex-start; justify-content: center;">
-<table align="center">
-  <tr>
-    <th>Category</th>
-    <th>Technologies</th>
-  </tr>
-  <tr>
-    <td>Languages</td>
-    <td>
-      <img src="https://img.shields.io/badge/-JavaScript-231f20?style=flat-square&labelColor=231f20&logo=javascript&logoColor=00FFFF" />
-      <img src="https://img.shields.io/badge/-TypeScript-231f20?style=flat-square&labelColor=231f20&logo=typescript&logoColor=00FFFF" />
-      <img src="https://img.shields.io/badge/-Python-231f20?style=flat-square&labelColor=231f20&logo=python&logoColor=00FFFF" />
-      <img src="https://img.shields.io/badge/-Java-231f20?style=flat-square&labelColor=231f20&logo=java&logoColor=00FFFF" />
-      <img src="https://img.shields.io/badge/-C++-231f20?style=flat-square&labelColor=231f20&logo=cplusplus&logoColor=00FFFF" />
-      <img src="https://img.shields.io/badge/-Rust-231f20?style=flat-square&labelColor=231f20&logo=rust&logoColor=00FFFF" />
-    </td>
-  </tr>
-  <tr>
-    <td>Frontend</td>
-    <td>
-      <img src="https://img.shields.io/badge/-React-231f20?style=flat-square&labelColor=231f20&logo=react&logoColor=00FFFF" />
-      <img src="https://img.shields.io/badge/-Next.js-231f20?style=flat-square&labelColor=231f20&logo=next.js&logoColor=00FFFF" />
-      <img src="https://img.shields.io/badge/-Redux-231f20?style=flat-square&labelColor=231f20&logo=redux&logoColor=00FFFF" />
-      <img src="https://img.shields.io/badge/-Tailwind-231f20?style=flat-square&labelColor=231f20&logo=tailwindcss&logoColor=00FFFF" />
-    </td>
-  </tr>
-  <tr>
-    <td>Backend</td>
-    <td>
-      <img src="https://img.shields.io/badge/-Node.js-231f20?style=flat-square&labelColor=231f20&logo=node.js&logoColor=00FFFF" />
-      <img src="https://img.shields.io/badge/-Express-231f20?style=flat-square&labelColor=231f20&logo=express&logoColor=00FFFF" />
-      <img src="https://img.shields.io/badge/-Django-231f20?style=flat-square&labelColor=231f20&logo=django&logoColor=00FFFF" />
-      <img src="https://img.shields.io/badge/-MongoDB-231f20?style=flat-square&labelColor=231f20&logo=mongodb&logoColor=00FFFF" />
-      <img src="https://img.shields.io/badge/-PostgreSQL-231f20?style=flat-square&labelColor=231f20&logo=postgresql&logoColor=00FFFF" />
-    </td>
-  </tr>
-  <tr>
-    <td>DevOps & Tools</td>
-    <td>
-      <img src="https://img.shields.io/badge/-Docker-231f20?style=flat-square&labelColor=231f20&logo=docker&logoColor=00FFFF" />
-      <img src="https://img.shields.io/badge/-Git-231f20?style=flat-square&labelColor=231f20&logo=git&logoColor=00FFFF" />
-      <img src="https://img.shields.io/badge/-AWS-231f20?style=flat-square&labelColor=231f20&logo=amazon-aws&logoColor=00FFFF" />
-      <img src="https://img.shields.io/badge/-VSCode-231f20?style=flat-square&labelColor=231f20&logo=visual-studio-code&logoColor=00FFFF" />
-    </td>
-  </tr>
-</table>
-</div>
-</div>
+### Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
+### Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-<h2><img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" height="35"> GitHub Analytics</h2>
+### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+<hr>
+
+## GitHub Stats
 
 <div align="center">
   <a href="https://github.com/abhi963007">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=abhi963007&theme=midnight-purple&show_icons=true&border_color=00FFFF&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&bg_color=000000&hide_border=true" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=abhi963007&theme=default&show_icons=true&hide_border=true" />
   </a>
   <a href="https://github.com/abhi963007">
-    <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi963007&theme=midnight-purple&border=00FFFF&background=000000&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF&hide_border=true" />
+    <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi963007&hide_border=true" />
   </a>
 </div>
 
-<div align="center">
-  <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi963007&layout=donut-vertical&theme=midnight-purple&title_color=00FFFF&text_color=FFFFFF&bg_color=000000&hide_border=true" />
-  <img height="300em" width="700em" src="https://github-profile-trophy.vercel.app/?username=abhi963007&theme=matrix&row=2&column=4&margin-w=15&margin-h=15&no-frame=true" />
-</div>
+<hr>
 
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
-
-<h2><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" height="30px"> Contribution Galaxy</h2>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/abhi963007/abhi963007/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
+<!-- Removed non-working snake animation -->
 
 ```javascript
-// Life.js
-class Developer {
-  constructor() {
-    this.name = "Abhiram";
-    this.role = "Full Stack Developer";
-    this.languageSpoken = ["en_US", "code"];
-    this.dailyMotto = "function coffeeThenCode() { return 'I ♥ building stuff!'; }";
-  }
-
-  sayHi() {
-    console.log("Thanks for visiting my GitHub profile!");
-  }
-}
-
-const me = new Developer();
-me.sayHi();
+// About me in code
+const abhiram = {
+  role: "Full Stack Developer",
+  languages: ["JavaScript", "TypeScript", "Python", "Java", "C++", "Rust"],
+  motto: "function coffeeThenCode() { return 'I ♥ building stuff!'; }"
+};
 ```
 
+<hr>
+
 <div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <img src="https://komarev.com/ghpvc/?username=abhi963007&style=flat-square&color=blue" alt="Profile Views" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhi963007&style=for-the-badge&color=00FFFF&label=PROFILE+VIEWS" alt="Profile Views" />
-  <a href="https://github.com/abhi963007?tab=followers">
-    <img src="https://img.shields.io/github/followers/abhi963007?label=Followers&style=for-the-badge&color=00FFFF" alt="Followers" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=80&section=footer" width="100%" />
+  <p>Thanks for visiting my profile!</p>
 </div>
