@@ -9,7 +9,6 @@
 </div>
 
 ---
-## 📈 GitHub Stats
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=abhi963007&theme=default&show_icons=true&hide_border=true" />
