@@ -9,17 +9,6 @@
 </div>
 
 ---
-
-# Abhiram
-
-Full-Stack Developer
-
-- **LinkedIn:** https://www.linkedin.com/in/abhiram-ak
-- **Email:** abhiramak963@gmail.com
-- **GitHub:** https://github.com/abhi963007
-
----
-
 ## 📈 GitHub Stats
 
 <div align="center">
