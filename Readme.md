@@ -30,6 +30,23 @@ Full-Stack Developer
 
 ---
 
+## 📈 GitHub Stats
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=abhi963007&theme=default&show_icons=true&hide_border=true" />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi963007&hide_border=true" />
+</div>
+
+## 🐍 Contribution Graph
+
+> **Note:** The snake animation is generated automatically every 12 hours by a GitHub Action.
+
+<p align="center">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/abhi963007/abhi963007/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=abhi963007&style=flat-square&color=blue" alt="Profile Views" />
   <br/>
