@@ -29,17 +29,37 @@ jobs:
           gif_out_path: dist/github-contribution-grid-snake.gif
         continue-on-error: true
 
-      - name: Ensure dist exists with content
+      - name: Debug and fix directory structure
         run: |
+          echo "=== FULL DIRECTORY LISTING ==="
+          find . -name "*.svg" -o -name "*.gif" 2>/dev/null || echo "No snake files found"
+          echo "=== ROOT DIRECTORY ==="
+          ls -la
+          echo "=== DIST DIRECTORY ==="
           mkdir -p dist
           ls -la dist/
-          # If no files exist, create a placeholder
+          
+          # Look for snake files anywhere and move them to dist
+          if [ -f "github-contribution-grid-snake.svg" ]; then
+            echo "Found SVG in root, moving to dist/"
+            mv github-contribution-grid-snake.svg dist/
+          fi
+          
+          if [ -f "github-contribution-grid-snake.gif" ]; then
+            echo "Found GIF in root, moving to dist/"  
+            mv github-contribution-grid-snake.gif dist/
+          fi
+          
+          # Create minimal files if none exist
           if [ ! -f "dist/github-contribution-grid-snake.svg" ]; then
-            echo '<svg></svg>' > dist/github-contribution-grid-snake.svg
+            echo '<svg width="800" height="400"><rect width="800" height="400" fill="#f0f0f0"/><text x="400" y="200" text-anchor="middle" fill="#666">Snake animation placeholder</text></svg>' > dist/github-contribution-grid-snake.svg
             echo "Created placeholder SVG"
           fi
-          echo "Final dist contents:"
+          
+          echo "=== FINAL DIST CONTENTS ==="
           ls -la dist/
+          echo "=== FILE SIZES ==="
+          du -sh dist/*
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
