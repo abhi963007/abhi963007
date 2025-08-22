@@ -16,21 +16,27 @@ jobs:
     steps:
       # 1. Checkout the repository so the workflow can push to it later
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       # 2. Generate both SVG & GIF contribution-snake animations
       - name: Generate snake animation
-        uses: Platane/snk@v3.2.0
+        uses: Platane/snk@v3
         with:
-          github_user_name: abhi963007          # change if you fork this repo
-          svg_out_path: dist/github-contribution-grid-snake.svg
-          gif_out_path: dist/github-contribution-grid-snake.gif
+          github_user_name: abhi963007
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
-      # 3. Push the generated files to the `output` branch (served by GitHub Pages)
+      # 3. Show what was generated (for debugging)
+      - name: Show output
+        run: ls -la dist
+
+      # 4. Push the generated files to the `output` branch (served by GitHub Pages)
       - name: Publish animation to GitHub Pages
-        uses: crazy-max/ghaction-github-pages@v3
+        uses: crazy-max/ghaction-github-pages@v4
         with:
-          target_branch: output               # branch where files will be pushed
-          build_dir: dist                     # directory created by the previous step
+          target_branch: output
+          build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
