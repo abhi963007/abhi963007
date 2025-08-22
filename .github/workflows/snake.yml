@@ -16,20 +16,30 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: Create dist directory
+        run: mkdir -p dist
+
       - name: Generate snake animation
         uses: Platane/snk@v3
         id: snake-gif
         with:
           github_user_name: abhi963007
           outputs: |
-            github-contribution-grid-snake.svg
-            github-contribution-grid-snake-dark.svg?palette=github-dark
-            github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+      - name: Verify files exist
+        run: |
+          ls -la
+          ls -la dist/ || echo "dist directory does not exist"
 
       - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v4
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
-          build_dir: ./
+          build_dir: dist
+          keep_history: false
+          allow_empty_commit: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
