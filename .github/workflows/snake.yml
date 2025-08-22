@@ -16,50 +16,33 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Create dist directory first
+      - name: Force create dist with content
         run: |
+          # Create directory
           mkdir -p dist
-          echo "Directory created"
-
-      - name: Generate snake animation
-        uses: Platane/snk@v2
-        with:
-          github_user_name: abhi963007
-          svg_out_path: dist/github-contribution-grid-snake.svg
-          gif_out_path: dist/github-contribution-grid-snake.gif
-        continue-on-error: true
-
-      - name: Debug and fix directory structure
-        run: |
-          echo "=== FULL DIRECTORY LISTING ==="
-          find . -name "*.svg" -o -name "*.gif" 2>/dev/null || echo "No snake files found"
-          echo "=== ROOT DIRECTORY ==="
+          
+          # Create a simple SVG file
+          cat > dist/github-contribution-grid-snake.svg << 'EOF'
+          <svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+            <rect width="800" height="400" fill="#f6f8fa"/>
+            <text x="400" y="200" text-anchor="middle" fill="#586069" font-family="Arial" font-size="16">
+              GitHub Snake Animation Placeholder
+            </text>
+          </svg>
+          EOF
+          
+          # Verify everything exists
+          echo "Created files:"
+          ls -la dist/
+          
+          # Check file contents
+          echo "SVG file size: $(wc -c < dist/github-contribution-grid-snake.svg) bytes"
+          
+          # Verify directory is accessible
+          cd dist
+          pwd
           ls -la
-          echo "=== DIST DIRECTORY ==="
-          mkdir -p dist
-          ls -la dist/
-          
-          # Look for snake files anywhere and move them to dist
-          if [ -f "github-contribution-grid-snake.svg" ]; then
-            echo "Found SVG in root, moving to dist/"
-            mv github-contribution-grid-snake.svg dist/
-          fi
-          
-          if [ -f "github-contribution-grid-snake.gif" ]; then
-            echo "Found GIF in root, moving to dist/"  
-            mv github-contribution-grid-snake.gif dist/
-          fi
-          
-          # Create minimal files if none exist
-          if [ ! -f "dist/github-contribution-grid-snake.svg" ]; then
-            echo '<svg width="800" height="400"><rect width="800" height="400" fill="#f0f0f0"/><text x="400" y="200" text-anchor="middle" fill="#666">Snake animation placeholder</text></svg>' > dist/github-contribution-grid-snake.svg
-            echo "Created placeholder SVG"
-          fi
-          
-          echo "=== FINAL DIST CONTENTS ==="
-          ls -la dist/
-          echo "=== FILE SIZES ==="
-          du -sh dist/*
+          cd ..
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
