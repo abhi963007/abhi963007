@@ -1,3 +1,14 @@
+<!-- Snake Animation -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhi963007/abhi963007/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhi963007/abhi963007/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/abhi963007/abhi963007/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 <!-- About Me Section with Animated Border -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -23,22 +34,6 @@
 <div align="center">
   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=abhi963007&bg_color=0d1117&color=6C63FF&line=6C63FF&point=fff&area=true&hide_border=true" alt="Activity Graph" />
 </div>
-
-<!-- Snake Animation -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhi963007/abhi963007/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhi963007/abhi963007/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/abhi963007/abhi963007/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
 <!-- Trophy Section -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
