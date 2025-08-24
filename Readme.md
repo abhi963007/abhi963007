@@ -1,13 +1,3 @@
-<!-- Header Banner -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Abhiram&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Full-Stack%20Developer%20|%20Software%20Engineer%20|%20Tech%20Enthusiast&descAlignY=55&descSize=20" />
-</div>
-
-<!-- Animated Intro -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Welcome+to+my+Digital+Space+%F0%9F%9A%80;Where+Code+Meets+Creativity+%E2%9C%A8;Let's+Build+Something+Amazing+Together!" alt="Typing SVG" />
-</div>
-
 <!-- About Me Section with Animated Border -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
