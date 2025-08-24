@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: "0 */12 * * *"   # every 12 hours
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
   generate-snake:
@@ -13,36 +16,13 @@ jobs:
       contents: write
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Force create dist with content
-        run: |
-          # Create directory
-          mkdir -p dist
-          
-          # Create a simple SVG file
-          cat > dist/github-contribution-grid-snake.svg << 'EOF'
-          <svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
-            <rect width="800" height="400" fill="#f6f8fa"/>
-            <text x="400" y="200" text-anchor="middle" fill="#586069" font-family="Arial" font-size="16">
-              GitHub Snake Animation Placeholder
-            </text>
-          </svg>
-          EOF
-          
-          # Verify everything exists
-          echo "Created files:"
-          ls -la dist/
-          
-          # Check file contents
-          echo "SVG file size: $(wc -c < dist/github-contribution-grid-snake.svg) bytes"
-          
-          # Verify directory is accessible
-          cd dist
-          pwd
-          ls -la
-          cd ..
+      - name: Generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
@@ -50,6 +30,5 @@ jobs:
           target_branch: output
           build_dir: dist
           keep_history: false
-          allow_empty_commit: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
