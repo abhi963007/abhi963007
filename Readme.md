@@ -19,7 +19,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-<h2 align="center">📊 GitHub Analytics</h2>
+<h2 align="center">⚡ Open-Source Metrics</h2>
 
 <div align="center">
   <img width="48%" height="200px" src="https://github-readme-stats.vercel.app/api?username=abhi963007&show_icons=true&count_private=true&hide_border=true&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&bg_color=0d1117&hide=contribs&rank_icon=github" alt="Abhiram's GitHub stats" />
