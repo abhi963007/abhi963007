@@ -13,29 +13,6 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
-</h2>
-
-<div align="center">
-  <img align="right" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding gif" />
-  
-  <div align="left">
-    
-  🎯 **Currently Working On:** Building scalable web applications
-  
-  🌱 **Learning:** Cloud Architecture & DevOps
-  
-  💡 **Ask Me About:** Web Development, System Design, Problem Solving
-  
-  ⚡ **Fun Fact:** I debug with console.log and I'm proud of it! 😄
-  
-  📫 **Reach Me:** [Connect on LinkedIn](https://linkedin.com/in/abhi963007)
-  
-  </div>
-</div>
-
-<br clear="both">
 <!-- GitHub Stats Section -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -44,8 +21,8 @@
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=abhi963007&show_icons=true&count_private=true&hide_border=true&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&bg_color=0d1117" alt="Abhiram's GitHub stats" />
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi963007&layout=compact&hide_border=true&title_color=6C63FF&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
+  <img width="48%" height="200px" src="https://github-readme-stats.vercel.app/api?username=abhi963007&show_icons=true&count_private=true&hide_border=true&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&bg_color=0d1117&hide=contribs&rank_icon=github" alt="Abhiram's GitHub stats" />
+  <img width="48%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi963007&layout=compact&hide_border=true&title_color=6C63FF&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
 </div>
 
 <div align="center">
@@ -80,7 +57,7 @@
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhi963007&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=3" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abhi963007&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=7" alt="Trophies" />
 </div>
 
 <!-- Connect Section -->
