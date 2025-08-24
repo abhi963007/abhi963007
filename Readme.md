@@ -41,7 +41,7 @@
 <h2 align="center">🤝 Connect & Collaborate</h2>
 
 <div align="center">
-  <a href="https://linkedin.com/in/abhi963007">
+  <a href="https://linkedin.com/in/abhiram-a-k-16208a174">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/abhi963007">
