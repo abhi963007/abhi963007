@@ -53,18 +53,6 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
-
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhi963007&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=7" alt="Trophies" />
-</div>
-
-<!-- Connect Section -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
 <h2 align="center">🤝 Let's Connect</h2>
 
 <div align="center">
