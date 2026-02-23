@@ -5,14 +5,6 @@
   <img src="https://img.shields.io/badge/Open%20Source-ff69b4?style=for-the-badge" />
 </p>
 
-### 💫 About Me
-Software developer passionate about building elegant solutions to complex problems. I focus on clean code, modern architecture, and performance.
-
-- 🔭 Currently crafting high-quality software solutions.
-- 🌱 Deepening my expertise in **Cloud Architecture** & **Scalable Systems**.
-- 💬 Ask me about **React, Node.js, or System Design**.
-- 📫 Reach me at: [abhiramak963@gmail.com](mailto:abhiramak963@gmail.com)
-
 ---
 
 ### 🛠️ Tech Stack
