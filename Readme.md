@@ -19,57 +19,9 @@
 
 ---
 
-### 🕷️ Diagnostics Web / About Me
-<p align="left">
-  I am a passionate <strong>Full-Stack Python Developer</strong> and <strong>MCA Graduate</strong> based in Kerala, India. Just like weaving a complex spider web, I spin clean, scalable, and highly optimized digital systems.
-  <br><br>
-  My days are spent swingin' through backends with Django and sculpting frontends with React. Currently, I am expanding my web into <strong>Generative AI & Machine Learning</strong> workflows—building LLM-powered applications, automating complex development pipelines, and exploring local AI ecosystems like Ollama.
-</p>
-
-* 🕸️ **Systems & Backend:** Django, Python, MySQL, Firebase, REST APIs, Docker
-* 🕸️ **Front-End Interfaces:** React.js, JavaScript, Tailwind CSS, HTML5/CSS3
-* 🕸️ **AI & Innovations:** LLMs, Prompt Engineering, Ollama Integration, Workflow Automation
-* 🕸️ **Current Exploration:** Multi-agent LLM systems and advanced GenAI fine-tuning
-
----
-
-### 🕸️ My Web of Tech Stack
-
 <p align="center">
-  <img src="./assets/spidey_tech_web.png" alt="Abhiram's Spidey Tech-Web" width="85%" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0, 229, 255, 0.25);" />
+  <img src="./assets/tech_stack.png" alt="Abhiram's Tech Stack" width="100%" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0, 229, 255, 0.35);" />
 </p>
-
-<div align="center">
-
-| 🔴 **Backend Systems** | 🔵 **UI & Frontend** | ⚫ **AI & Diagnostics** |
-| :--- | :--- | :--- |
-| 🕷️ **Python** <br> 🕷️ **Django** <br> 🕷️ **MySQL** <br> 🕷️ **Firebase** | 🕷️ **React.js** <br> 🕷️ **JavaScript** <br> 🕷️ **Tailwind CSS** <br> 🕷️ **HTML5 & CSS3** | 🕷️ **Ollama / LLMs** <br> 🕷️ **Prompt Engineering** <br> 🕷️ **Docker** <br> 🕷️ **Git & GitHub** |
-
-</div>
-
----
-
-### 📊 Multiverse Metrics
-
-<p align="center">
-  <a href="https://github.com/abhi963007">
-    <img height="185em" src="https://github-readme-stats.vercel.app/api?username=abhi963007&show_icons=true&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true" alt="Abhiram's GitHub Stats" />
-  </a>
-  <a href="https://github.com/abhi963007">
-    <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi963007&layout=compact&theme=synthwave&hide_border=true" alt="Abhiram's Top Languages" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/abhi963007">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhi963007&theme=synthwave&hide_border=true" alt="Abhiram's Streak Stats" />
-  </a>
-</p>
-
----
-
-### 🧠 Developer Philosophy
-> *"With great power, comes great clean code. Just swingin' through the multiversal webs of software systems."*
 
 ---
 
