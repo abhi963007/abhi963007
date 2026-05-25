@@ -35,6 +35,10 @@
 
 ### 🕸️ My Web of Tech Stack
 
+<p align="center">
+  <img src="./assets/spidey_tech_web.png" alt="Abhiram's Spidey Tech-Web" width="85%" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0, 229, 255, 0.25);" />
+</p>
+
 <div align="center">
 
 | 🔴 **Backend Systems** | 🔵 **UI & Frontend** | ⚫ **AI & Diagnostics** |
