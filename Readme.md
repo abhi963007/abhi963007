@@ -52,14 +52,18 @@
 
 ---
 
-### 🏆 contribution-grid-snake.system
+### 🎮 Play "Commit Runner: Bug Squasher" on My Profile!
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhi963007/abhi963007/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhi963007/abhi963007/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/abhi963007/abhi963007/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
+  <a href="https://abhi963007.github.io/abhi963007/" target="_blank">
+    <img src="./assets/commit_runner_arcade.png" alt="Play Commit Runner on my profile!" width="85%" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(255, 105, 180, 0.3);" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://abhi963007.github.io/abhi963007/" target="_blank">
+    <img src="https://img.shields.io/badge/PLAY%20NOW-INSERT%20COIN-ff69b4?style=for-the-badge&logo=sega&logoColor=white" alt="Play Game Button" />
+  </a>
 </p>
 
 ---
