@@ -18,6 +18,14 @@
 
 ---
 
+<div align="center">
+
+> *"Whatever life holds in store for me, I will never forget these words: **'With great power comes great responsibility.'** This is my gift, my curse. Who am I? I'm Spider-Man."*
+
+</div>
+
+---
+
 <h3 align="center">🕸️ Connect via Web-Net</h3>
 
 <p align="center">
