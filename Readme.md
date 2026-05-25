@@ -45,22 +45,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Description | Stack | Source / Demo |
-| :--- | :--- | :--- | :--- |
-| 🏛️ **Mangalam MCA Website** | A comprehensive academic portal and content management system designed for the MCA Department. | Django, React, MySQL | [📂 Source](https://github.com/abhi963007) |
-| 🧸 **Happy Tots Day Care** | A scalable platform automating administration, toddler tracking, and parent communication. | React, Firebase, Tailwind | [📂 Source](https://github.com/abhi963007) |
-| 💸 **Money Magnet** | An AI-powered personal expense tracker that reads transactions and outputs smart budgetary suggestions. | Python, Django, LLM, MySQL | [📂 Source](https://github.com/abhi963007) |
-| 💬 **College Enquiry Bot** | An intelligent chatbot resolving campus enquiries, trained locally using Ollama. | Python, LLM, Ollama, React | [📂 Source](https://github.com/abhi963007) |
-| ✈️ **Trip Planner Eazy Holidays** | An intuitive travel itinerary builder with responsive maps and collaborative planning. | React, Django, Firebase | [📂 Source](https://github.com/abhi963007) |
-
-</div>
-
----
-
 ### 📊 Cyber-Metrics & Diagnostics
 
 <p align="center">
