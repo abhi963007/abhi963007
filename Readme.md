@@ -1,51 +1,51 @@
 <p align="center">
-  <img src="./assets/profile_banner.png" alt="Abhiram's Banner" width="100%" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(157, 78, 221, 0.3);" />
+  <img src="./assets/profile_banner.png" alt="Abhiram's Spidey Banner" width="100%" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(227, 0, 34, 0.45);" />
 </p>
 
-<h1 align="center">⚡ Hey there, I'm Abhiram! ⚡</h1>
+<h1 align="center">🕸️ Friendly Neighborhood Developer 🕸️</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=Full-Stack+Python+Developer;Generative+AI+%26+LLM+Enthusiast;MCA+Graduate+%7C+Problem+Solver;Building+scalable+Django+%26+React+apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=1000&color=FF3366&center=true&vCenter=true&width=500&lines=Swingin'+through+code+webs;With+great+power+comes+clean+code;Full-Stack+Python+%26+GenAI+Enthusiast;Squashing+bugs%2C+saving+codebases" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Python-E30022?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Generative_AI-9D4EDD?style=for-the-badge&logo=openai&logoColor=white" alt="GenAI" />
+  <img src="https://img.shields.io/badge/React-00E5FF?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Generative_AI-FF3366?style=for-the-badge&logo=openai&logoColor=white" alt="GenAI" />
 </p>
 
 ---
 
-### 🌌 About Me
+### 🕷️ Diagnostics Web / About Me
 <p align="left">
-  I am a passionate <strong>Full-Stack Python Developer</strong> and <strong>MCA Graduate</strong> based in Kerala, India. My core expertise lies in building robust backends with Django and sleek user interfaces with React, tied together with scalable cloud infrastructures. 
+  I am a passionate <strong>Full-Stack Python Developer</strong> and <strong>MCA Graduate</strong> based in Kerala, India. Just like weaving a complex spider web, I spin clean, scalable, and highly optimized digital systems.
   <br><br>
-  Lately, I've been diving deep into <strong>Generative AI & Machine Learning</strong> workflows—building LLM-powered applications, automating complex development pipelines, and exploring local AI ecosystems like Ollama.
+  My days are spent swingin' through backends with Django and sculpting frontends with React. Currently, I am expanding my web into <strong>Generative AI & Machine Learning</strong> workflows—building LLM-powered applications, automating complex development pipelines, and exploring local AI ecosystems like Ollama.
 </p>
 
-* 🛠️ **Systems & Backend:** Django, Python, MySQL, Firebase, REST APIs, Docker
-* 🎨 **Front-End Interfaces:** React.js, JavaScript, Tailwind CSS, HTML5/CSS3
-* 🤖 **AI & Innovations:** LLMs, Prompt Engineering, Ollama Integration, Workflow Automation
-* 🚀 **Current Exploration:** Multi-agent LLM systems and advanced GenAI fine-tuning
+* 🕸️ **Systems & Backend:** Django, Python, MySQL, Firebase, REST APIs, Docker
+* 🕸️ **Front-End Interfaces:** React.js, JavaScript, Tailwind CSS, HTML5/CSS3
+* 🕸️ **AI & Innovations:** LLMs, Prompt Engineering, Ollama Integration, Workflow Automation
+* 🕸️ **Current Exploration:** Multi-agent LLM systems and advanced GenAI fine-tuning
 
 ---
 
-### 🛠️ Tech Stack & Cyber Systems
+### 🕸️ My Web of Tech Stack
 
 <div align="center">
 
-| 🐍 **Core & Backend** | ⚛️ **UI & Frontend** | 🦾 **AI & DevOps** |
+| 🔴 **Backend Systems** | 🔵 **UI & Frontend** | ⚫ **AI & Diagnostics** |
 | :--- | :--- | :--- |
-| 🔹 **Python** <br> 🔹 **Django** <br> 🔹 **MySQL** <br> 🔹 **Firebase** | 🔹 **React.js** <br> 🔹 **JavaScript** <br> 🔹 **Tailwind CSS** <br> 🔹 **HTML5 & CSS3** | 🔹 **Ollama / LLMs** <br> 🔹 **Prompt Engineering** <br> 🔹 **Docker** <br> 🔹 **Git & GitHub** |
+| 🕷️ **Python** <br> 🕷️ **Django** <br> 🕷️ **MySQL** <br> 🕷️ **Firebase** | 🕷️ **React.js** <br> 🕷️ **JavaScript** <br> 🕷️ **Tailwind CSS** <br> 🕷️ **HTML5 & CSS3** | 🕷️ **Ollama / LLMs** <br> 🕷️ **Prompt Engineering** <br> 🕷️ **Docker** <br> 🕷️ **Git & GitHub** |
 
 </div>
 
 ---
 
-### 📊 Cyber-Metrics & Diagnostics
+### 📊 Multiverse Metrics
 
 <p align="center">
   <a href="https://github.com/abhi963007">
@@ -65,11 +65,11 @@
 ---
 
 ### 🧠 Developer Philosophy
-> *"Code should feel invisible. Great products feel effortless. I don't just build apps—I build experiences."*
+> *"With great power, comes great clean code. Just swingin' through the multiversal webs of software systems."*
 
 ---
 
-<h3 align="center">🛰️ Connect with Me</h3>
+<h3 align="center">🕸️ Connect via Web-Net</h3>
 
 <p align="center">
   <!-- GitHub -->
