@@ -2,19 +2,12 @@
   <img src="./assets/profile_banner.png" alt="Abhiram's Spidey Banner" width="100%" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(227, 0, 34, 0.45);" />
 </p>
 
-<h1 align="center">🕸️ Friendly Neighborhood Developer 🕸️</h1>
+<h1 align="center">Friendly Neighborhood Developer</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=1000&color=FF3366&center=true&vCenter=true&width=500&lines=Swingin'+through+code+webs;With+great+power+comes+clean+code;Full-Stack+Python+%26+GenAI+Enthusiast;Squashing+bugs%2C+saving+codebases" alt="Typing SVG" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-E30022?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/React-00E5FF?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Generative_AI-FF3366?style=for-the-badge&logo=openai&logoColor=white" alt="GenAI" />
 </p>
 
 ---
